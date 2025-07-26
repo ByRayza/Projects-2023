@@ -1,2 +1,2 @@
 # Projects-2023
-# List of projects from Basic Programming, Web Design and Development, and Database Management. This was from CSU-Global.
+# List of projects done from Basic Programming, Web Design and Development, and Database Management class from CSU-Global.
